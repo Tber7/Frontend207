@@ -1,0 +1,205 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Rubik Cơ Bản ",
+      "isActive": false,
+      "description": "123"
+    },
+    {
+      "id": "2",
+      "name": "Rubik Biến Thể"
+    },
+    {
+      "id": "bf76",
+      "name": "rubik mới",
+      "description": "rubik mới về\n",
+      "isActive": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Rubik's Cube 3x3 Classic",
+      "description": "Khối Rubik 3x3 cổ điển, phù hợp cho người mới bắt đầu và các cuber chuyên nghiệp.",
+      "price": 200000,
+      "discounted": 180000,
+      "image": "sp1.jpg",
+      "manufacturer": "Rubik's",
+      "weight": "100g",
+      "size": "5.7cm x 5.7cm x 5.7cm",
+      "magnetic": false,
+      "details": "Khối Rubik 3x3 cổ điển với thiết kế đơn giản, độ xoay mượt mà, phù hợp cho cả người mới bắt đầu và người chơi chuyên nghiệp. Sản phẩm được làm từ nhựa cao cấp, bền bỉ và an toàn cho người sử dụng."
+    },
+    {
+      "id": "2",
+      "name": "GAN 356 XS",
+      "description": "Khối Rubik cao cấp từ thương hiệu GAN, thiết kế mượt mà, phù hợp cho speedcubing.",
+      "price": 1200000,
+      "discounted": 1100000,
+      "image": "sp2.jpg",
+      "manufacturer": "GAN",
+      "weight": "80g",
+      "size": "5.6cm x 5.6cm x 5.6cm",
+      "magnetic": true,
+      "details": "Khối Rubik GAN 356 XS là một trong những sản phẩm cao cấp nhất của GAN, được trang bị nam châm để tăng độ ổn định khi xoay. Thiết kế nhẹ, độ xoay cực kỳ mượt mà, phù hợp cho các cuber chuyên nghiệp và speedcubing."
+    },
+    {
+      "id": "3",
+      "name": "MoYu Weilong WR M",
+      "description": "Khối Rubik chất lượng cao từ MoYu, độ xoay mượt, độ bền tốt.",
+      "price": 800000,
+      "discounted": 750000,
+      "image": "sp3.jpg",
+      "manufacturer": "MoYu",
+      "weight": "90g",
+      "size": "5.6cm x 5.6cm x 5.6cm",
+      "magnetic": true,
+      "details": "Khối Rubik MoYu Weilong WR M được thiết kế với độ xoay mượt mà và độ bền cao. Sản phẩm có nam châm giúp tăng độ ổn định, phù hợp cho cả người mới bắt đầu và người chơi chuyên nghiệp."
+    },
+    {
+      "id": "4",
+      "name": "Rubik's Cube 2x2",
+      "description": "Khối Rubik 2x2, nhỏ gọn, phù hợp để luyện tập kỹ năng xoay nhanh.",
+      "price": 150000,
+      "discounted": 130000,
+      "image": "sp4.jpg",
+      "manufacturer": "Rubik's",
+      "weight": "70g",
+      "size": "4.5cm x 4.5cm x 4.5cm",
+      "magnetic": false,
+      "details": "Khối Rubik 2x2 nhỏ gọn, dễ dàng mang theo, phù hợp để luyện tập kỹ năng xoay nhanh. Sản phẩm được làm từ nhựa cao cấp, bền bỉ và an toàn."
+    },
+    {
+      "id": "5",
+      "name": "GAN Megaminx",
+      "description": "Khối Megaminx 12 mặt từ GAN, độ khó cao, thách thức trí tuệ.",
+      "price": 1500000,
+      "discounted": 1400000,
+      "image": "sp5.jpg",
+      "manufacturer": "GAN",
+      "weight": "120g",
+      "size": "6.5cm x 6.5cm x 6.5cm",
+      "magnetic": true,
+      "details": "Khối Megaminx 12 mặt từ GAN là một thách thức lớn đối với những người yêu thích giải đố. Sản phẩm có nam châm, độ xoay mượt mà, phù hợp cho người chơi nâng cao."
+    },
+    {
+      "id": "6",
+      "name": "Rubik's Cube 4x4",
+      "description": "Khối Rubik 4x4, độ khó cao hơn 3x3, phù hợp cho người chơi nâng cao.",
+      "price": 300000,
+      "discounted": 280000,
+      "image": "sp6.jpg",
+      "manufacturer": "Rubik's",
+      "weight": "110g",
+      "size": "6.0cm x 6.0cm x 6.0cm",
+      "magnetic": false,
+      "details": "Khối Rubik 4x4 có độ khó cao hơn so với 3x3, phù hợp cho người chơi nâng cao. Sản phẩm được làm từ nhựa cao cấp, độ bền tốt."
+    },
+    {
+      "id": "7",
+      "name": "GAN Pyraminx",
+      "description": "Khối Pyraminx từ GAN, thiết kế kim tự tháp, độ xoay mượt mà.",
+      "price": 900000,
+      "discounted": 850000,
+      "image": "sp7.jpg",
+      "manufacturer": "GAN",
+      "weight": "85g",
+      "size": "6.0cm x 6.0cm x 6.0cm",
+      "magnetic": true,
+      "details": "Khối Pyraminx từ GAN có thiết kế kim tự tháp độc đáo, độ xoay mượt mà, phù hợp cho người chơi yêu thích thử thách mới."
+    },
+    {
+      "id": "8",
+      "name": "MoYu Skewb",
+      "description": "Khối Skewb độc đáo, thách thức khả năng tư duy không gian.",
+      "price": 250000,
+      "discounted": 230000,
+      "image": "sp8.jpg",
+      "manufacturer": "MoYu",
+      "weight": "95g",
+      "size": "5.5cm x 5.5cm x 5.5cm",
+      "magnetic": false,
+      "details": "Khối Skewb từ MoYu có thiết kế độc đáo, thách thức khả năng tư duy không gian của người chơi. Sản phẩm được làm từ nhựa cao cấp, độ bền tốt."
+    },
+    {
+      "id": "9",
+      "name": "GAN Square-1",
+      "description": "Khối Square-1 từ GAN, có thể thay đổi hình dạng khi xoay.",
+      "price": 700000,
+      "discounted": 650000,
+      "image": "sp9.jpg",
+      "manufacturer": "GAN",
+      "weight": "90g",
+      "size": "5.7cm x 5.7cm x 5.7cm",
+      "magnetic": true,
+      "details": "Khối Square-1 từ GAN có thể thay đổi hình dạng khi xoay, mang lại trải nghiệm giải đố độc đáo. Sản phẩm có nam châm, độ xoay mượt mà."
+    },
+    {
+      "id": "10",
+      "name": "Rubik's Cube 5x5",
+      "description": "Khối Rubik 5x5, độ khó cao, phù hợp cho người chơi chuyên nghiệp.",
+      "price": 500000,
+      "discounted": 480000,
+      "image": "sp10.jpg",
+      "manufacturer": "Rubik's",
+      "weight": "130g",
+      "size": "6.5cm x 6.5cm x 6.5cm",
+      "magnetic": false,
+      "details": "Khối Rubik 5x5 có độ khó cao, phù hợp cho người chơi chuyên nghiệp. Sản phẩm được làm từ nhựa cao cấp, độ bền tốt."
+    }
+  ],
+  "user": [
+    {
+      "id": "1790",
+      "email": "teo@gmail.com",
+      "password": "$2a$10$KOYT60MH277igS.IFYVNue1QwsLo4xP3iyo.Rv2pW8v1GXazFaRvq"
+    },
+    {
+      "id": "6bda",
+      "email": "ty@gmail.com",
+      "password": "$2a$10$.UyD4S4zMxa3N1t8PD8fW.NPP90Aw4Rs3PghxVld4GbSPZr2ozHFK"
+    },
+    {
+      "id": "43fc",
+      "email": "ty1@gmail.com",
+      "password": "$2a$10$LkXWFpxaqknmWjfqOknr1ut9cC0sfu1ErJi6ZpPxVDv0PvqnMGZ4m",
+      "fullname": "nguyen thi tý",
+      "phone": 123456789,
+      "address": "Q12 tphcm"
+    },
+    {
+      "id": "2256",
+      "email": "ty2@gmail.com",
+      "password": "$2a$10$YTM0LVOwOIDysv69z1aXp.FSdsjGIdvExy8DXN2eu9TvtmlStNuZO",
+      "fullname": "nguyễn van tý",
+      "phone": 123456788,
+      "address": "Q12 TpHCM"
+    },
+    {
+      "id": "a70a",
+      "email": "123@gmail.com",
+      "password": "$2a$10$Locx2fezOu6pBxFEKIuOpe2DXEaGos3vA32JGC8Uytyk60W5p7v/S",
+      "fullname": "buitantin",
+      "phone": 93563972,
+      "address": "23213"
+    },
+    {
+      "id": "a5cb",
+      "email": "van@gmail.com",
+      "password": "$2a$10$9yyvsOliRFYrHkbPjj7K9OuiHca/VSGw/NYQCqlZiqymDAZz5BV6W",
+      "fullname": "VAN",
+      "phone": 123456789,
+      "address": "q12"
+    },
+    {
+      "id": "485b",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$Mw64ZUDQQlXwV9DXJ7g3hugj.chRLqQCf1Y5KTApdG5/0CglV.Jyu",
+      "fullname": "admin",
+      "phone": 123456789,
+      "address": "Q12. TP HCM",
+      "role": "admin"
+    }
+  ]
+}
